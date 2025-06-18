@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/STHEXA/ts-for-js-developers/issues"
   },
-  "homepage": "https://github.com/STHEXA/ts-for-js-developers#readme"
+  "homepage": "https://github.com/STHEXA/ts-for-js-developers#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
